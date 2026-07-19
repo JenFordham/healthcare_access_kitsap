@@ -36,6 +36,10 @@ census = census.replace(missing_codes, pd.NA)
 # Remove tiny/special-use ZIPs for community-level analysis
 census = census[census["Total_Population"] >= 500].copy()
 
+# Remove ZCTAs outside the Kitsap County project scope
+excluded_zips = {"98320"}
+census = census[~census["ZIP"].isin(excluded_zips)].copy()
+
 # Recalculate rates after cleaning
 census["Percent_65_Plus"] = (
     census["Population_65_Plus"] / census["Total_Population"] * 100
@@ -64,3 +68,4 @@ print(f"Saved to: {output_path}")
 
 print("\nCleaned Census ZIPs:")
 print(census[["ZIP", "Total_Population", "Median_Age", "Median_Household_Income"]])
+

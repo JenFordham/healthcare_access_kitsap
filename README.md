@@ -13,7 +13,7 @@ An end-to-end healthcare analytics project that combines public demographic, hea
 
 Using Python, SQLite, and Power BI, I developed a Healthcare Access Priority Score to help visualize potential disparities in healthcare access across Kitsap County, Washington.
 
-**The analysis identified three communities with the highest Healthcare Access Priority Scores, each representing a different pattern of potential healthcare access challenges for further investigation.**
+**The analysis identified 98312 (West Bremerton), 98359 (Olalla), and 98367 (Port Orchard area) as the highest-priority communities for further investigation, each representing a different pattern of potential healthcare access challenges.**
 
 ---
 
@@ -60,7 +60,7 @@ This project combines data from three public sources:
 
 - Imported healthcare facility, census, and geographic boundary datasets
 - Cleaned and standardized ZIP code data
-- Filtered records to Kitsap County communities
+- Filtered records to Kitsap County ZIP Code Tabulation Areas (ZCTAs)
 
 ### 2. Data Integration
 
@@ -101,6 +101,20 @@ Built an interactive Power BI report featuring:
 
 ---
 
+## Reproducible Analysis Pipeline
+
+The analysis was automated using a 10-step Python workflow that:
+
+- Collects public Census data
+- Cleans and standardizes demographic and provider datasets
+- Calculates healthcare supply metrics
+- Builds a SQLite database
+- Generates the Healthcare Access Priority Score
+- Performs sensitivity analysis
+- Produces the geospatial dataset used in Power BI
+
+---
+
 # 📊 Dashboard Preview
 
 ## Executive Dashboard
@@ -123,9 +137,9 @@ The Healthcare Access Priority Model identified three communities as the highest
 |-----------|-------------|
 | **98312 (West Bremerton)** | Large population with **comparatively limited provider availability** (1.86 providers per 10,000 residents). |
 | **98359 (Olalla)** | No local healthcare facilities identified within the ZIP code. |
-| **98320 (Brinnon)** | Older rural community with no local healthcare facilities identified. |
+| **98367 (Port Orchard area)** | Large residential community with no local healthcare facilities identified despite serving more than 31,000 residents. |
 
-> **Recommendation:** Use these findings to prioritize additional community assessment, including travel time, provider capacity, transportation access, and other local barriers not captured in this analysis.
+> **Recommendation:** Use these findings to prioritize targeted community assessment, including travel time, provider capacity, transportation access, and other local barriers not captured in this analysis.
 
 > **Note:** The Healthcare Access Priority Score is intended as a screening tool to identify communities that may warrant further investigation. It does not directly measure healthcare access or account for factors such as travel time, provider capacity, or patient utilization.
 
@@ -166,7 +180,7 @@ healthcare_access_kitsap/
 
 ## Project Takeaways
 
-This project demonstrates an end-to-end healthcare analytics workflow—from collecting and preparing public datasets to developing a scoring model and communicating findings through interactive dashboards and executive presentations.
+This project demonstrates an end-to-end healthcare analytics workflow—from acquiring and integrating public datasets to developing a reproducible healthcare prioritization model and communicating findings through interactive dashboards and executive presentations.
 
 While the Healthcare Access Priority Score is intended as a screening tool rather than a direct measure of healthcare access, it illustrates how publicly available data can be integrated to support evidence-based decision making.
 
@@ -180,3 +194,12 @@ Healthcare Data Analyst passionate about using analytics, visualization, and pub
 
 - LinkedIn: https://www.linkedin.com/in/jencfordham/
 - GitHub: https://github.com/JenFordham
+
+## More Projects
+
+Interested in more healthcare analytics work?
+
+➡️ **Healthcare Duplicate MRN Analytics Platform**
+- Operational healthcare analytics
+- SQL, Python, SQLite, Power BI
+- Root-cause analysis of duplicate medical record creation

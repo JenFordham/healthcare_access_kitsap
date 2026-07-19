@@ -9,8 +9,8 @@ Purpose:
     schemas, and creates one provider master table.
 
 Inputs:
-    - data/Raw/Clinics.gdb
-    - data/Raw/Hospitals.gdb
+    - data/raw/Clinics.gdb
+    - data/raw/Hospitals.gdb
 
 Outputs:
     - data/cleaned/kitsap_provider_master.csv
@@ -30,8 +30,8 @@ from pathlib import Path
 # -----------------------------
 # File paths
 # -----------------------------
-clinic_path = r"data/Raw/Clinics.gdb"
-hospital_path = r"data/Raw/Hospitals.gdb"
+clinic_path = r"data/raw/Clinics.gdb"
+hospital_path = r"data/raw/Hospitals.gdb"
 output_path = Path("data/cleaned")
 output_path.mkdir(parents=True, exist_ok=True)
 
@@ -39,8 +39,8 @@ output_path.mkdir(parents=True, exist_ok=True)
 # Kitsap ZIP Codes
 # -----------------------------
 kitsap_zips = [
-    "98110", "98310", "98311", "98312", "98314", "98315",
-    "98320", "98322", "98329", "98337", "98340",
+    "98110", "98310", "98311", "98312", "98314", 
+    "98315", "98322", "98329", "98337", "98340",
     "98342", "98345", "98346", "98353", "98359",
     "98364", "98366", "98367", "98370", "98380",
     "98383", "98384", "98392"

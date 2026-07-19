@@ -9,8 +9,8 @@ Purpose:
     potential data-quality issues before cleaning.
 
 Inputs:
-    - Data/Raw/Clinics.gdb
-    - Data/Raw/Hospitals.gdb
+    - data/raw/Clinics.gdb
+    - data/raw/Hospitals.gdb
 
 Outputs:
     - Console-based data profiling results
@@ -25,8 +25,8 @@ import geopandas as gpd
 # -----------------------------
 # File paths
 # -----------------------------
-clinic_path = r"Data/Raw/Clinics.gdb"
-hospital_path = r"Data/Raw/Hospitals.gdb"
+clinic_path = r"data/raw/Clinics.gdb"
+hospital_path = r"data/raw/Hospitals.gdb"
 
 # -----------------------------
 # Load datasets
@@ -38,8 +38,8 @@ hospitals = gpd.read_file(hospital_path, layer="Hospitals")
 # Kitsap County ZIP Codes
 # -----------------------------
 kitsap_zips = [
-    "98110","98310", "98311", "98312", "98314", "98315",
-    "98320", "98322", "98329", "98337", "98340",
+    "98110","98310", "98311", "98312", "98314", 
+    "98315", "98322", "98329", "98337", "98340",
     "98342", "98345", "98346", "98353", "98359",
     "98364", "98366", "98367", "98370", "98380",
     "98383", "98384", "98392"

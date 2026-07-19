@@ -8,7 +8,7 @@ Purpose:
     Tabulation Areas included in the Healthcare Access Equity Analysis.
 
 Inputs:
-    - data/Raw/tl_2025_us_zcta520/tl_2025_us_zcta520.shp
+    - data/raw/tl_2025_us_zcta520/tl_2025_us_zcta520.shp
     - data/cleaned/kitsap_healthcare_equity_metrics.csv
 
 Outputs:
@@ -33,7 +33,7 @@ import pandas as pd
 # File paths
 # --------------------------------------------------
 zcta_path = Path(
-    "data/Raw/tl_2025_us_zcta520/tl_2025_us_zcta520.shp"
+    "data/raw/tl_2025_us_zcta520/tl_2025_us_zcta520.shp"
 )
 
 metrics_path = Path(
@@ -54,7 +54,6 @@ kitsap_zctas = [
     "98312",
     "98314",
     "98315",
-    "98320",
     "98329",
     "98337",
     "98340",
@@ -428,3 +427,4 @@ print(
 )
 
 print(zctas.columns.tolist())
+
