@@ -102,13 +102,13 @@ Built an interactive Power BI report featuring:
 
 ## Executive Dashboard
 
-![Executive Dashboard](images/executive_summary.png)
+![Executive Dashboard](images/executive_summary.PNG)
 
 ---
 
 ## Community Explorer
 
-![Community Explorer](images/community_explorer.png)
+![Community Explorer](images/community_explorer.PNG)
 
 ---
 
