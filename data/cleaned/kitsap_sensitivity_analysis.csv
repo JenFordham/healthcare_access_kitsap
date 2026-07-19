@@ -1,0 +1,20 @@
+ZIP,Priority_Score_With_Beds,Priority_Rank_With_Beds,Priority_Score_Without_Beds,Priority_Rank_Without_Beds,Rank_Change,Absolute_Rank_Change,Rank_Stability
+98312,1.221,1,1.335,1,0,0,No Change
+98359,1.215,2,1.322,2,0,0,No Change
+98320,1.044,3,1.151,3,0,0,No Change
+98367,0.888,4,0.995,4,0,0,No Change
+98311,0.852,5,0.913,6,1,1,Minimal Change
+98342,0.843,6,0.95,5,-1,1,Minimal Change
+98366,0.805,7,0.656,7,0,0,No Change
+98380,0.546,8,0.653,8,0,0,No Change
+98392,0.36,9,0.266,9,0,0,No Change
+98337,0.326,10,0.168,10,0,0,No Change
+98329,-0.08,11,0.027,12,1,1,Minimal Change
+98310,-0.445,12,0.074,11,-1,1,Minimal Change
+98346,-0.619,13,-0.854,16,3,3,Moderate Change
+98315,-0.706,14,-0.599,13,-1,1,Minimal Change
+98110,-0.771,15,-0.853,15,0,0,No Change
+98314,-0.884,16,-0.777,14,-2,2,Moderate Change
+98370,-1.006,17,-1.312,17,0,0,No Change
+98340,-1.657,18,-1.945,18,0,0,No Change
+98383,-1.931,19,-2.172,19,0,0,No Change

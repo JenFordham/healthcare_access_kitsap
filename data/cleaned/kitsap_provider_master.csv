@@ -1,0 +1,52 @@
+FACILITY_ID,NAME,ADDRESS,CITY,ZIP,TYPECARE,TYPE,PROVIDERS,PHYSICIANS,FP_GP,IM,PEDS,OB_GYN,PA,NP,LMW,POINT_X,POINT_Y,FACILITY_CATEGORY,HOSPITAL_BEDS,ICU_AVAILABLE,ACUTE_CARE,CRITICAL_ACCESS
+1,PCHS Port Orchard,320 South Kitsap Blvd,Port Orchard,98366,Unknown,Unknown,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1108512.3688,805622.207955,Clinic,0,No,No,No
+2,Suquamish Tribe,18465 Augusta Ave,Suquamish,98392,Mental,Tribal/FQHC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1135227.1215,880740.533244,Clinic,0,No,No,No
+3,Westbay Medical Center (Robert C Browning MD),Westbay Medical Center,Port Orchard,98366,Primary,Private,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1124148.95746,809756.624456,Clinic,0,No,No,No
+4,Virginia Mason Winslow,3830 Winslow Way E,Bainbridge Isl,98110,Primary,Private,11.0,10.0,6.0,1.0,3.0,0.0,0.0,1.0,0.0,1142717.77477,842093.791568,Clinic,0,No,No,No
+5,Port Orchard Clinic (PCHS),"1950 Pottery Ave, Lower Level",Port Orchard,98366,Primary,FQHC,3.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,1108599.31518,804431.96102,Clinic,0,No,No,No
+6,Poulsbo Clinic (PSNHC),"19045 Highway 305, Plaza 305,",Poulsbo,98370,Primary,FQHC,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1114417.55468,883426.431869,Clinic,0,No,No,No
+7,Steffan Tolles MD,"1780 NW Myhre Rd,",Silverdale,98383,Primary,Private,3.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,1103898.48411,853645.383303,Clinic,0,No,No,No
+8,The Doctors Clinic Womens & Childrens Center,"1780 NW Myhre Rd,",Silverdale,98383,Primary,Private,7.0,7.0,0.0,0.0,3.0,4.0,0.0,0.0,0.0,1103898.48411,853645.383303,Clinic,0,No,No,No
+9,Central OB/GYN - Silverdale,"1780 NW Myhre Rd.,",Silverdale,98383,Primary,Private,1.0,1.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,1103898.48411,853645.383303,Clinic,0,No,No,No
+10,South Kitsap Family Care Clinic,1826 Fircrest Dr SE,Port Orchard,98366,Primary,Private,4.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,1121918.65895,808875.196963,Clinic,0,No,No,No
+11,"Kitsap Childrens Clinic, LLP - Poulsbo","19351 8th Ave NE,",Poulsbo,98370,Primary,Private,2.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1114074.85794,884313.331167,Clinic,0,No,No,No
+12,Bruce Carlton MD,"19365 7th Ave NE,",Poulsbo,98370,Primary,Private,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1113650.62691,884317.013427,Clinic,0,No,No,No
+13,Susan J Schlifer MD,"19365 7th Ave NE,",Poulsbo,98370,Primary,Private,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1113650.62691,884317.013427,Clinic,0,No,No,No
+14,Liberty Bay Internal Medicine,20730 Bond Rd NE,Poulsbo,98370,Primary,Private,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1112136.66027,888975.524215,Clinic,0,No,No,No
+15,North Kitsap Pediatrics,20730 Bond Rd NE,Poulsbo,98370,Primary,Private,7.0,7.0,5.0,0.0,2.0,0.0,0.0,0.0,0.0,1112136.66027,888975.524215,Clinic,0,No,No,No
+16,North Kitsap Family Practice & Urgent Care,20730 Bond Rd NE,Poulsbo,98370,Primary,Private,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,1112136.66027,888975.524215,Clinic,0,No,No,No
+17,South Kingston Internal Medicine,25989 Barber Cutoff Rd Ste A-3,Kingston,98346,Primary,Private,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1146277.71683,905301.601264,Clinic,0,No,No,No
+18,North Kitsap Family Practice - Kingston,25995 Barber Cut Off Rd NE,Kingston,98346,Primary,Private,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1146263.45155,905306.994569,Clinic,0,No,No,No
+19,Port Gamble SKlallam Tribal Clinic,31912 Little Boston Rd NE,Kingston,98346,"Primary, Mental, Dental",Tribal/FQHC,5.0,3.0,3.0,0.0,0.0,0.0,1.0,1.0,0.0,1132085.27476,925831.313503,Clinic,0,No,No,No
+20,Bainbridge Island Clinic (PCHS),420 Bjune Dr.,Bainbridge Isl,98110,Primary,FQHC,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1143147.81504,841651.457973,Clinic,0,No,No,No
+21,Central OB/GYN - Bremerton,804 Callahan Dr.,Bremerton,98310,Primary,Private,1.0,1.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,1115286.77224,828677.082851,Clinic,0,No,No,No
+22,The Doctors Clinic of Silverdale,9398 Ridgetop Blvd NW,Silverdale,98383,Primary,Private,4.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1102591.99326,853751.973928,Clinic,0,No,No,No
+23,"Silverdale Pediatrics, LLP","9615 Levin Rd NW,",Silverdale,98383,Primary,Private,2.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1102192.12618,852629.166072,Clinic,0,No,No,No
+24,Group Health - Silverdale,10452 Silverdale Way NW,Silverdale,98383,Primary,HMO,14.0,11.0,9.0,0.0,2.0,0.0,2.0,1.0,0.0,1102089.97366,855323.722756,Clinic,0,No,No,No
+25,"William Minteer, MD",10513 Silverdale Way,Silverdale,98383,Primary,Private,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1101460.92029,855582.937343,Clinic,0,No,No,No
+26,"Lein-Chun Shaw, MD",10513 Silverdale Way NW,Silverdale,98383,Primary,Private,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1101460.92029,855582.937343,Clinic,0,No,No,No
+27,Crown Hill Medical Center,1310 Bertha Ave NW,Bremerton,98312,Primary,Private,5.0,5.0,1.0,2.0,2.0,0.0,0.0,0.0,0.0,1106314.72701,824238.565229,Clinic,0,No,No,No
+28,The Doctors Clinic - Prompt Care,1651 NE Bentley Dr,Bremerton,98311,Primary,Private,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1115641.3811,843164.13135,Clinic,0,No,No,No
+29,The Doctors Clinic of Poulsbo,19245 7th Ave,Poulsbo,98370,Primary,Private,8.0,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,1113208.4184,883974.847585,Clinic,0,No,No,No
+30,Group Health Cooperative - Poulsbo,19379 7th ST NE,Poulsbo,98370,Primary,HMO,7.0,5.0,5.0,0.0,0.0,0.0,1.0,1.0,0.0,1113151.19789,884375.229004,Clinic,0,No,No,No
+31,Kitsap OB/GYN - Port Orchard,1950 Pottery Ave,Port Orchard,98366,Primary,Private,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1108393.54537,804312.493268,Clinic,0,No,No,No
+32,Allan Weissman MD,"1950 Pottery Ave,",Port Orchard,98366,Primary,Private,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1108393.54537,804312.493268,Clinic,0,No,No,No
+33,Kitsap OB/GYN - Poulsbo,20700 Bond Rd NE,Poulsbo,98370,Primary,Private,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1112335.76903,888865.502014,Clinic,0,No,No,No
+34,Gregory Keyes MD,231 Madison Ave S,Bainbridge Isl,98110,Primary,Private,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1141960.69208,841647.342622,Clinic,0,No,No,No
+35,The Doctors Clinic of Bremerton,2512 Wheaton Way,Bremerton,98310,Primary,Private,5.0,5.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,1115634.46771,827208.58983,Clinic,0,No,No,No
+36,Michael Benoit MD,"2528 Wheaton Way,",Bremerton,98310,Primary,Private,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1115651.15314,827571.266897,Clinic,0,No,No,No
+37,J David Swift MD,"2601 Cherry Ave,",Bremerton,98310,Primary,Private,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1115757.82444,828475.826651,Clinic,0,No,No,No
+38,Kitsap Internal Medicine Associates,"2601 Cherry Ave.,",Bremerton,98310,Primary,Private,4.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,1115757.82444,828475.826651,Clinic,0,No,No,No
+39,Donald Sharman MD - Kingston,26114 Illinois Ave,Kingston,98340,Primary,Private,2.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1149465.98551,905737.800271,Clinic,0,No,No,No
+40,Olympic Internal Medicine Associates,2620 Wheaton Way,Bremerton,98310,Primary,Private,3.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,1115685.10211,828304.290981,Clinic,0,No,No,No
+41,Group Health Cooperative- Bremerton,2741 Wheaton Way,Bremerton,98310,Primary,HMO,6.0,6.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,1115001.27438,829172.121028,Clinic,0,No,No,No
+42,Gillian Esser MD,3343 NW Byron St,Silverdale,98383,Primary,Private,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1099362.08298,850341.027402,Clinic,0,No,No,No
+43,William Ferman MD,3421-E Kitsap Way,Bremerton,98312,Primary,Private,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1106787.79587,823358.097777,Clinic,0,No,No,No
+44,"Kitsap Childrens Clinic, LLP",450 S. Kitsap Blvd,Port Orchard,98366,Primary,Private,4.0,3.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0,1107198.01359,805257.876096,Clinic,0,No,No,No
+45,The Doctors Clinic of Port Orchard,"450 S. Kitsap Blvd,",Port Orchard,98366,Primary,Private,6.0,6.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,1107198.01359,805257.876096,Clinic,0,No,No,No
+46,Bremerton Clinic (PCHS),616 Sixth St,Bremerton,98337,"Primary, Dental",FQHC,8.0,5.0,3.0,2.0,0.0,0.0,3.0,0.0,0.0,1114861.19948,821934.449727,Clinic,0,No,No,No
+47,"William E. Underdown, MD",623 NE Riddell Rd,Bremerton,98310,Primary,Private,2.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1113250.77867,836152.410977,Clinic,0,No,No,No
+48,Kitsap OB/GYN - Silvedale,9750 Levin Rd NW,Silverdale,98383,Primary,Private,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1102178.18877,853075.463348,Clinic,0,No,No,No
+49,Naval Hospital,1 Boone Road,Bremerton,98312,Hospital,Hospital,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1099694.9501892626,832323.0021374226,Hospital,31,Yes,Yes,No
+50,Harrison Medical Center - Silverdale,1800 NW Myhre Rd,Silverdale,98383,Hospital,Hospital,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1104288.897366181,854293.2659395933,Hospital,68,No,Yes,No
+51,Franciscan Health Harrison Medical Center,2520 Cherry Ave,Bremerton,98310,Hospital,Hospital,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1115985.610193178,827554.7190230936,Hospital,212,Yes,Yes,No
