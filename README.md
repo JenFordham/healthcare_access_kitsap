@@ -1,8 +1,11 @@
-------------------------------------------------------
-Kitsap County Healthcare Access Analysis
-------------------------------------------------------
+# Kitsap County Healthcare Access Analysis
 
-Python • GeoPandas • SQLite • SQL • Power BI
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![SQL](https://img.shields.io/badge/SQL-Analytics-blue)
+![SQLite](https://img.shields.io/badge/SQLite-Database-lightgrey)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-Geospatial-green)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![Healthcare](https://img.shields.io/badge/Domain-Healthcare-brightgreen)
 
 ------------------------------------------------------
 
