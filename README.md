@@ -190,7 +190,7 @@ While the Healthcare Access Priority Score is intended as a screening tool rathe
 
 **Jen Fordham, RHIA**
 
-Healthcare Data Analyst passionate about using analytics, visualization, and public data to support better healthcare decision-making.
+Healthcare Data Integrity Analyst passionate about using analytics, visualization, and public data to support better healthcare decision-making.
 
 - LinkedIn: https://www.linkedin.com/in/jencfordham/
 - GitHub: https://github.com/JenFordham
