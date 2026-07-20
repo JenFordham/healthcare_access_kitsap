@@ -195,11 +195,4 @@ Healthcare Data Integrity Analyst passionate about using analytics, visualizatio
 - LinkedIn: https://www.linkedin.com/in/jencfordham/
 - GitHub: https://github.com/JenFordham
 
-## More Projects
 
-Interested in more healthcare analytics work?
-
-➡️ **Healthcare Duplicate MRN Analytics Platform**
-- Operational healthcare analytics
-- SQL, Python, SQLite, Power BI
-- Root-cause analysis of duplicate medical record creation
